@@ -26,3 +26,7 @@ This WordPress theme component implements a dynamic resource feed using a **cust
 
 - **Optimized for Speed**  
   Results load instantly with minimal server load and no page refreshes.
+  
+## Sreenshot
+
+![Ajax resources](assets/ajax-resources.png)
